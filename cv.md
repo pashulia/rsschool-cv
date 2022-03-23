@@ -28,3 +28,9 @@
 
 - Python RPA: FrontEnd developer (from October to today)
 https://www.linkedin.com/company/python-rpa/
+
+### Code example
+
+function maps(x){
+ return x.map(el => el * 2)
+}
