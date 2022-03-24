@@ -15,9 +15,9 @@
 - WebSocket
 - Node.js, Express.js
 - MongoDB, MySQL
-- AntD, Bootstrap, Material-UI,
+- AntD, Bootstrap, Material-UI
 - Git
-- Figma
+- Git
 
 ### Education
 
